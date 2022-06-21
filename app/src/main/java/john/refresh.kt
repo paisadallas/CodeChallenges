@@ -6,6 +6,6 @@ fun main(){
 
    // person.nickname = "john"
     person.printInfo()
-
+//hello
 
 }
